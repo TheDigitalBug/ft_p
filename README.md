@@ -21,6 +21,7 @@ The goal of this project is to recode the printf function from stdio library.
 ```
 $> make
 ```
+compile with libprintf.a 
 ```
 #include <ft_printf.h>
 
